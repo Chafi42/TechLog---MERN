@@ -1,5 +1,5 @@
 // client/src/App.jsx
-import "./App.css";
+import "./assets/css/App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Index from "./pages/Index.jsx";
 import Home from "./pages/Home.jsx";
